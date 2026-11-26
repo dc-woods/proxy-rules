@@ -2,6 +2,9 @@
 # Compatible with Surge & Loon
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-SUFFIX,paytr.com
+DOMAIN-SUFFIX,iyzipay.com
+DOMAIN-SUFFIX,gpay.com.tr
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
