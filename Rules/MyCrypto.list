@@ -1,0 +1,12 @@
+# Personal Crypto Supplement Rules (Bitget Wallet / BitKeep)
+# Compatible with Surge & Loon
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.site
+DOMAIN-SUFFIX,bitget.tools
+DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-SUFFIX,bitgetimg.com
+DOMAIN-SUFFIX,bitkeep.com
+DOMAIN-SUFFIX,bitkeep.top
+DOMAIN-SUFFIX,bitkeep.buzz
+DOMAIN-SUFFIX,bitkeep.space
+DOMAIN-SUFFIX,bgstatic.com
