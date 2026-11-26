@@ -1,0 +1,14 @@
+# Personal Direct Rules (Wise & WeChat Core/HttpDNS Whitelist)
+# Compatible with Surge & Loon
+DOMAIN-SUFFIX,wise.com
+DOMAIN,aedns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,udns.weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
