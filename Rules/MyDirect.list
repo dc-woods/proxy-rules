@@ -1,6 +1,7 @@
-# Personal Direct Rules (Wise & WeChat Core/HttpDNS Whitelist)
+# Personal Direct Rules (Wise, Oyunfor & WeChat Core/HttpDNS Whitelist)
 # Compatible with Surge & Loon
 DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,oyunfor.com
 DOMAIN,aedns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
